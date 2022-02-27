@@ -6,6 +6,8 @@ class Word {
         this.word = word;
     }
 
+
+    
     // public is default
     public isValid(): boolean {
         // TODO: spell check
